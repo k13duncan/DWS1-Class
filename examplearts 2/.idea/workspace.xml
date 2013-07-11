@@ -29,7 +29,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="41" selection-start="40" selection-end="40" vertical-scroll-proportion="-1.25">
+            <state line="2" column="41" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -44,10 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reviews.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="reviews.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/theater/reviews.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="65" selection-start="65" selection-end="65" vertical-scroll-proportion="-1.875">
+            <state line="3" column="65" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0867052">
               <folding />
             </state>
           </provider>
@@ -56,7 +56,7 @@
       <file leaf-file-name="listings.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/music/listings.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="46" selection-start="395" selection-end="395" vertical-scroll-proportion="-7.5">
+            <state line="12" column="46" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -65,7 +65,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/theater/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="56" selection-start="425" selection-end="425" vertical-scroll-proportion="-8.125">
+            <state line="13" column="56" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -74,7 +74,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/movies/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="13" selection-start="434" selection-end="434" vertical-scroll-proportion="-8.75">
+            <state line="14" column="13" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -83,7 +83,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/movies/cinema/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="58" selection-start="450" selection-end="450" vertical-scroll-proportion="-8.125">
+            <state line="13" column="58" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -92,16 +92,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/music/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="58" selection-start="433" selection-end="433" vertical-scroll-proportion="-8.125">
+            <state line="13" column="58" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/movies/dvd/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="74" selection-start="460" selection-end="460" vertical-scroll-proportion="0.37572256">
+            <state line="13" column="74" selection-start="460" selection-end="460" vertical-scroll-proportion="-8.125">
               <folding />
             </state>
           </provider>
@@ -161,6 +161,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -259,7 +260,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -368,6 +368,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/movies/dvd/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="74" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="47" selection-start="3051" selection-end="3051" vertical-scroll-proportion="0.0">
@@ -412,7 +419,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="41" selection-start="40" selection-end="40" vertical-scroll-proportion="-1.25">
+        <state line="2" column="41" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/listings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="46" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theater/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="56" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movies/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="13" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movies/cinema/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="58" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="58" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movies/dvd/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="74" selection-start="460" selection-end="460" vertical-scroll-proportion="-8.125">
           <folding />
         </state>
       </provider>
@@ -426,49 +475,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/theater/reviews.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="65" selection-start="65" selection-end="65" vertical-scroll-proportion="-1.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/music/listings.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="46" selection-start="395" selection-end="395" vertical-scroll-proportion="-7.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/theater/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="56" selection-start="425" selection-end="425" vertical-scroll-proportion="-8.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movies/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="434" selection-end="434" vertical-scroll-proportion="-8.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movies/cinema/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="58" selection-start="450" selection-end="450" vertical-scroll-proportion="-8.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/music/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="58" selection-start="433" selection-end="433" vertical-scroll-proportion="-8.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movies/dvd/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="74" selection-start="460" selection-end="460" vertical-scroll-proportion="0.37572256">
+        <state line="3" column="65" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0867052">
           <folding />
         </state>
       </provider>
