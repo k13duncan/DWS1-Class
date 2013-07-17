@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(150,26,37);
+}
+ol{
+    list-style-type: none;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+p{
+  color: #47FF1B;
+  background-color:black;
+}
+ul{
+    color:#47FF1B;
+}
