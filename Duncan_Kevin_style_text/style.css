@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(150,26,37);
+    margin: 0 auto;
+    text-align: center;
+    width:800px;
+
+}
+ol{
+    list-style-type: none;
+}
+h1{
+
+    font-size: 70px;
+    font-weight:bold;
+    font-family: Racing Sans One;
+}
+h2{
+    font-family: Racing Sans One;
+    font-weight:bold;
+}
+p{
+  color: #47FF1B;
+  background-color:black;
+}
+ul{
+    color:#47FF1B;
+    list-style-type: none;
+    font-style:italic;
+}
+.Lil{
+    border:none;
+}
+font-family
+
+
+
+text-transform
+line-height
+letter-spacing  word-spacing
+text-align  text-indent
